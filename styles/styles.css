@@ -13,6 +13,10 @@
 }
 /* Menú de navegación */
 
+html {
+    scroll-behavior: smooth;
+}
+
 .menunav-mobile {
     display: none;
 }
